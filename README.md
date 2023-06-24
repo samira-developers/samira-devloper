@@ -1,0 +1,14 @@
+- 👋 Hi, I’m Samira , a frontend developer 
+my Skills :
+-React 
+-Javascript 
+-React-query
+-Redux-toolkit
+-Context-api
+-Axios/restfull Api 
+-Typescript
+-Jquery
+-Tailwindcss
+-Bootstrtap
+-Css/scss/sass
+-Html/html5
